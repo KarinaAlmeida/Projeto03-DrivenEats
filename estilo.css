@@ -64,6 +64,7 @@
     background-color: #FFFFFF;
     border-radius: 9px;
     margin-left: 16px;
+    border: 5px solid white;
     
 }
 .item img {
@@ -114,6 +115,7 @@
     justify-content: center;
     align-items: center;
 }
+
 .selecione {
     display: flex;
     justify-content: center;
@@ -127,4 +129,11 @@
     height: 61px;
     margin-top: 14px;
     color: #FFFFFF;
+}
+.verde {
+    background-color: #32b72f;
+}
+
+.selecionado {
+    border: 4px solid #32b72f;
 }
